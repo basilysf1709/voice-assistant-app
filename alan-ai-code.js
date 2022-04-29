@@ -1,17 +1,3 @@
-intent('Hi Alan, its admin', 'Admin is here', 
-      reply('Hey Basil whats up'));
-
-intent('Hi Alan, its Faraz', 'Faraz is here', 
-      reply('Hey Faraz whats up. dont be sad please'));
-
-intent('Hi Alan, its Abdus', 'Abdus is here', 
-      reply('Hey Abdus whats up. please please please stop raging'));
-
-intent('Hi Alan, its Obaid', 'Obaid is here', 
-      reply('Hey Obaid whats up. stop scamming people'));
-
-intent('Hi Alan, its Ahmad', 'Ahmad is here', 
-      reply('Hey Ahmad whats up'));
 
 intent('What does this app do?', 'What can I do here?', 
       reply('This is a news project.', 'This is an AI side project'));
